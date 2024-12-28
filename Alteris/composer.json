@@ -1,0 +1,7 @@
+{
+    "require": {
+        "nikic/php-parser": "^5.0",
+        "symfony/filesystem": "^6.4",
+        "symfony/yaml": "^7.0"
+    }
+}
