@@ -5,7 +5,7 @@ Bash script will auto fix php exts folder, run main file, pack server into phar 
 Change php installation folder inside bash script!<br />
 <br />
 You can create 2 folders inside Alteris folder - Include, Overrides<br />
-In Include you place all the php files you want to be included inside pmmp root \pocketmine\<br />
+In Include you place all the php files you want to be included inside pmmp root \pocketmine\ <br />
 In Overrides you create php files where you add changes to code. You can change any php code inside src, vendor and build<br />
 <br />
 Functions are self explanatory if not figure them out yourself<br />
